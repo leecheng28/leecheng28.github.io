@@ -11,6 +11,6 @@ ENJOY :laughing:
 
 
 # Note
-
-At the time of writing, Chrome version 62.0 (takes some time to load), Firefox version 57.0, Safari version 11.0 works with this game.
+- Simple space shooter game built in Unity, following this [tutorial](https://unity3d.com/learn/tutorials)
+- At the time of writing, Chrome version 62.0 (takes some time to load), Firefox version 57.0, Safari version 11.0 works with this game.
 
