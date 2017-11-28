@@ -5,9 +5,9 @@
 
 # How to Control
 
-W, A, S, D - forward, left, backword, right.
+***W, A, S, D*** - forward, left, backword, right.
 
-Right click - to shoot bolts.
+***Left click*** - to shoot bolts.
 
 ENJOY :laughing:
 
